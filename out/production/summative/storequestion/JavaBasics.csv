@@ -1,0 +1,10 @@
+1,Which of the following is used to find and fix bugs in the program?,JDK,JRE,JVM,JDB,4
+2,Identify the incorrect Java feature.,Object oriented,Use of pointers,Dynamic,Architectural neural,2
+3,Which of the following statements are true about finalize() method?,It can be called Zero or one times,It can be called Zero or more times,It can be called Exactly once,it can be called One or more times,1
+4,Identify the interface which is used to declare core methods in java?,Comparator,EventListener,Set,Collection,4
+5,Excepted created by try block is caught in which block?,catch,throw,final,none,1
+6,What is Runnable?,Abstract class,interface,Class,method,2
+7,Identify the modifier which cannot be used for constructor.,public,protected,private,static,4
+8,Where does the system stores parameters and local variables whenever a method is invoked?,Heap,Stack,Array,Tree,2
+9,Output of Math.floor(3.6)?,3,3.0,4,4.0,2
+10,Identify the return type of a method that does not return any value.,int,void,double,none,2
